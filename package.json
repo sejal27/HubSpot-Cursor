@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-quotes-card",
+  "version": "1.0.0",
+  "description": "HubSpot UI extension for daily quotes",
+  "main": "src/app/app.jsx",
+  "scripts": {
+    "dev": "hs project dev",
+    "build": "hs project build",
+    "upload": "hs project upload"
+  },
+  "dependencies": {
+    "@hubspot/ui-extensions": "latest",
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@hubspot/cli": "latest"
+  }
+} 

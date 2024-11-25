@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Daily Quote",
+    "uid": "daily_quote_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "src/app/app.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+} 
